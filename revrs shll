@@ -1,1 +1,8 @@
+sudo kill -15 'PID' to reset proxy if not then use kill -9
+PRIV ESCAL
+uname - a : helps us understand the kernal of the target to help find exploits
+  kernel level exploits are straight to root - Critical
+Look up how to exploit (DirtyPipe for possible strategies)
+Use g0tmilks website to find a path for privelage escal
+
 
